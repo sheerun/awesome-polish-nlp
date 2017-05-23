@@ -8,8 +8,10 @@ If you'd like to contribute, please edit this document. You can do it directly f
 
 ### Stemming
 
-- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming) - dictionary based, doesn't support out-of-vocabulary words
+- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming) (BSD-3) - dictionary based, doesn't support out-of-vocabulary words
+- [stempel](http://www.getopt.org/stempel/) (Apache) - seems ancient, but working; can handle some out-of-vocabulary words
 
+Know some other stemmer? Please open [an issue](https://github.com/sheerun/awesome-polish-nlp/issues).
 
 ## License
 
