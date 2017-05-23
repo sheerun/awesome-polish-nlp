@@ -14,6 +14,10 @@ If you'd like to contribute, please edit this document. You can do it directly f
 
 Know some other stemmer? Please open [an issue](https://github.com/sheerun/awesome-polish-nlp/issues).
 
+## Other lists
+
+- http://zil.ipipan.waw.pl/
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
