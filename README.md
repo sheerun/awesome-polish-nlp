@@ -8,7 +8,7 @@ If you'd like to contribute, please edit this document. You can do it directly f
 
 ### Stemming
 
-- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming)
+- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming) - dictionary based, doesn't support out-of-vocabulary words
 
 
 ## License
