@@ -15,7 +15,7 @@ Know some other stemmer? Please open [an issue](https://github.com/sheerun/aweso
 
 ## Linguistic multitool
 - [morfologik](http://morfologik.blogspot.com/) - stemmer, morphology analyser, grammar analyser, autocompleter
-- [psi-toolkit](http://psi-toolkit.wmi.amu.edu.pl/) - stemmer, morphology analyser, grammar analyser, many others
+- [psi-toolkit](https://github.com/skorzewski/psi-toolkit) - stemmer, morphology analyser, grammar analyser, many others
 
 ## Other lists
 
