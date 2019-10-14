@@ -8,8 +8,13 @@ If you'd like to contribute, please edit this document. You can do it directly f
 
 ### Stemming
 
-- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming) (BSD-3) - dictionary based, doesn't support out-of-vocabulary words
-- [stempel](http://www.getopt.org/stempel/) (Apache-style) - seems ancient, but working; can handle some out-of-vocabulary words
+- [morfologik-stemming](https://github.com/morfologik/morfologik-stemming) (BSD-3) - dictionary based, doesn't support out-of-vocabulary words.
+- [stempel](http://www.getopt.org/stempel/) (Apache-style) - seems ancient, but working; can handle some out-of-vocabulary words.
+- [pystempel](https://github.com/dzieciou/pystempel) (mixed) - Python port of stempel with improved stemming tables.
+- [Estem](https://github.com/arcusfelis/estem) - Erlang wrapper (not port) for Stempel stemmer.
+- [pl_stemmer](https://github.com/Tutanchamon/pl_stemmer) - a Python stemmer based on Porter's Algorithm.
+- [polish-stem](https://github.com/eugeniashurko/polish-stem) - a Python stemmer using Finite State Transducers.
+
 
 Know some other stemmer? Please open [an issue](https://github.com/sheerun/awesome-polish-nlp/issues).
 
