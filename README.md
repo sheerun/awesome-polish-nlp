@@ -19,8 +19,11 @@ If you'd like to contribute, please edit this document. You can do it directly f
 Know some other stemmer? Please open [an issue](https://github.com/sheerun/awesome-polish-nlp/issues).
 
 ## Linguistic multitool
+
 - [morfologik](http://morfologik.blogspot.com/) - stemmer, morphology analyser, grammar analyser, autocompleter
 - [psi-toolkit](https://github.com/skorzewski/psi-toolkit) - stemmer, morphology analyser, grammar analyser, many others
+- [spaCy](https://spacy.io/) - framework for Industrial-Strength NLP in Python with models for Polish (from [Sigmoidal](http://spacypl.sigmoidal.io) and from [IPIPAN](https://github.com/ipipan/spacy-pl))
+
 
 ## Other lists
 
